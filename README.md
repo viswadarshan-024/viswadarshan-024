@@ -6,9 +6,9 @@ Passionate about designing impactful solutions that seamlessly integrate advance
 
 Check out [My Portfolio](https://viswadarshan-024.github.io/portfolio/)
 
-My work includes contributing to academic journals and advancing Tamil Language Processing using Generative AI. I focus on exploring and implementing advanced NLP techniques tailored to Tamil, such as paraphrase detection and paraphrase generation. This involves fine-tuning state-of-the-art models to align with the nuances of Tamil’s rich morphological structure and linguistic diversity.
+My work includes contributing to academic journals and advancing Tamil Language Processing using Generative AI. I focus on exploring and implementing advanced NLP techniques tailored to Indic Languages, in paraphrase detection and paraphrase generation. Improving state-of-the-art models to align with the nuances of Tamil’s rich morphological structure and linguistic diversity.
 
-I am dedicated to optimizing the NLP pipeline—from preprocessing and feature engineering to solving classification and regression tasks. By leveraging the latest methodologies and integrating language-specific adjustments, I aim to create robust and efficient NLP solutions that enhance the understanding and processing of Tamil text.
+I am dedicated to optimizing the NLP pipeline—from preprocessing and feature engineering to solving classification and regression tasks. By leveraging the latest methodologies and integrating language-specific adjustments, I aim to create robust and efficient NLP solutions that enhance the understanding and processing of Indic text data.
 
 ---
 
