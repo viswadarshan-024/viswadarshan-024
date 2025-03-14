@@ -27,10 +27,13 @@ I am an AI Researcher & Developer specializing in Natural Language Processing (N
 I specialize in AI and NLP development, with a strong focus on Generative AI, backend systems, and scalable AI architectures. My expertise includes building LLM-powered applications, optimizing system design, and deploying AI-driven solutions. I also have experience in data processing, web scraping, and UI/UX prototyping for AI applications.
 
 **AI & NLP Development**: Building AI-powered applications with a focus on LLMs, NLP, and tokenization.
+
 **Generative AI Applications**: Developing LLM-based applications for text generation, summarization, and domain-specific tasks.
+
 **Backend Development**: Designing and optimizing scalable AI architectures and backend systems.
+
 **System Design & Optimization**: Working on efficient model deployment and AI system integration.
-  
+
 ## Research Focus
 
 I am deeply passionate about advancing NLP for low-resource languages, ensuring that AI systems can understand, process, and generate text as effectively in Tamil as they do in high-resource languages like English. My research covers:
