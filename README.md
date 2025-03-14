@@ -20,23 +20,17 @@ I am dedicated to optimizing the NLP pipeline—from preprocessing and feature e
 
 I am an AI Researcher & Developer specializing in Natural Language Processing (NLP) and Generative AI with a strong focus on low-resource languages like Tamil. My work revolves around solving complex linguistic challenges, developing efficient AI models, and creating real-world AI applications that push the boundaries of language understanding.
 
+[My Portfolio](https://viswadarshan.netlify.app/)
+
 ## Development Expertise
 
-I work at the intersection of research and engineering, ensuring that my models are not only theoretically sound but also production-ready. My technical expertise includes:
+I specialize in AI and NLP development, with a strong focus on Generative AI, backend systems, and scalable AI architectures. My expertise includes building LLM-powered applications, optimizing system design, and deploying AI-driven solutions. I also have experience in data processing, web scraping, and UI/UX prototyping for AI applications.
 
-- **Model Training & Fine-Tuning**: Using Transformers, Hugging Face, and TensorFlow/PyTorch to fine-tune LLMs for specific NLP tasks.
-- **LLM Engineering & Optimization**: Implementing RAG-based systems, model quantization, and efficient inference techniques for high-speed AI applications.
-- **MLOps & Deployment**: Deploying optimized AI models using FastAPI, Triton Inference Server, and Streamlit for scalable real-time applications.
-
-
-## Real-Time AI Projects
-
-I believe in building AI solutions that have real-world impact. Some of my ongoing projects include:
-
-- **An AI-powered Indic Chatbot**: A multilingual chatbot that supports text and speech input, integrating LLMs, ASR APIs, and real-time translation to provide seamless communication across Indian languages.
-- **An AI-Driven Learning Platform**: An interactive Feynman Technique-based AI tutor, designed to improve learning through AI-driven questioning, explanation, and document-based topic extraction.
-- **A Storytelling AI for Tamil & English**: A creative AI system that generates stories based on text, audio, and image inputs, making storytelling interactive and immersive.
-
+**AI & NLP Development**: Building AI-powered applications with a focus on LLMs, NLP, and tokenization.
+**Generative AI Applications**: Developing LLM-based applications for text generation, summarization, and domain-specific tasks.
+**Backend Development**: Designing and optimizing scalable AI architectures and backend systems.
+**System Design & Optimization**: Working on efficient model deployment and AI system integration.
+  
 ## Research Focus
 
 I am deeply passionate about advancing NLP for low-resource languages, ensuring that AI systems can understand, process, and generate text as effectively in Tamil as they do in high-resource languages like English. My research covers:
@@ -57,9 +51,10 @@ I thrive on solving real problems with AI. My approach is:
 - **Hands-On Development**: I don’t just experiment with theories—I write code, optimize models, and deploy real AI systems.
 - **Impact-Driven**: Every project I work on is aimed at making AI more accessible, efficient, and powerful for real-world applications.
 
-## My Vision
+## My Passion
 
-I am on a mission to bring cutting-edge NLP and AI research into real-world use cases, especially for low-resource languages. My goal is to become a leading AI expert in this field, contributing to research, open-source AI, and scalable AI solutions that can make a global impact.
+I am deeply passionate about building AI solutions that drive real-world impact. My focus is on developing domain-specific LLMs, enterprise-ready AI systems, and NLP-driven solutions for low resource language(Tamil). From custom tokenization pipelines to fine-tuned LLMs for business intelligence, I thrive on designing high-performance AI solutions that enhance decision-making, automation, and user interaction.
+
 
 ### Let’s Connect & Innovate!
 
