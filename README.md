@@ -42,7 +42,7 @@ I am deeply passionate about advancing NLP for low-resource languages, ensuring 
 
 ---
 
-## My Work Ethic & Passion
+## My Work Ethic & Vision
 
 I thrive on solving real problems with AI. My approach is:
 
