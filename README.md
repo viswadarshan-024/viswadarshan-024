@@ -1,5 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+there+,+I'm+Viswadarshan!)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋+I'm+Viswadarshan!)](https://git.io/typing-svg)
+#### Software Developer | AI & NLP
+#### ✨ Tech Stack:  
+- **Java Backend Development** (Spring, REST APIs, Databases)  
+- **AI Development** (NLP, Transformers, PyTorch, Hugging Face, LangChain)
+> **“Always learning, always building — because AI should empower everyone, everywhere.”**
 
+
+<!--
 # NLP | Gen AI | Deep Learning
 <!--
 Passionate about designing impactful solutions that seamlessly integrate advanced technology in Generative and Agentic AI with practical applications, encompassing the entire development lifecycle.
@@ -12,7 +19,7 @@ I am dedicated to optimizing the NLP pipeline—from preprocessing and feature e
 
 ---
 
- -->
+
 
 
 
@@ -58,13 +65,14 @@ I am deeply passionate about building AI solutions that drive real-world impact.
 
 ### Let’s Connect & Innovate!
 
----
 
 ## Get in Touch!
 
 - **Email:** [viswadarshanrramiya@gmail.com](mailto:viswadarshanrramiya@gmail.com)
-- **Phone:** +91 6380403325
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswadarshan-r-r-68b8b124b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viswadarshan-024)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916380403325)
+---
+ -->
